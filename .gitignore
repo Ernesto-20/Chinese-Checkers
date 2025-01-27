@@ -1,0 +1,4 @@
+# Python and Django
+venv/
+.vscode/
+__pycache__
